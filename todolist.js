@@ -20,4 +20,3 @@ todo.addEventListener( 'click', function(evt) {
 }
   evt.preventDefault();
 }, false);
-
